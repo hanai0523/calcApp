@@ -137,6 +137,7 @@ namespace calcApp
         //イコール押下処理
         public void enterEqual()
         {
+            //gitTest
             if (!this.isPushedSpecialCode)
             {
                 //計算記号が現計算処理内で押されていた場合
